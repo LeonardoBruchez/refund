@@ -26,7 +26,7 @@ Este é um **projeto de teste**, criado para praticar manipulação do DOM, even
 
 1. Clone o repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/LeonardoBruchez/refund.git
    ```
 2. Abra o arquivo `index.html` no navegador.
 
